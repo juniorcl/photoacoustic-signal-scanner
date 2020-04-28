@@ -21,6 +21,7 @@ This program workes in a tipical photoacoustic gase experiment. Just download th
 ## Acknowledgment
 - State University of Northern Fluminense Darcy Ribeiro ([UENF](http://uenf.br/))
 - Graduate Program in Natural Sciences ([PGCN](http://uenf.br/posgraduacao/ciencias-naturais/))
+- UENF Gas Photoacoustic Study Group
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
