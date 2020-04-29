@@ -2,10 +2,11 @@
 Photoacoustic Signal Scanner
 ----------------------------
 This program was written at the Universidade Estadual do Norte Fluminense (UENF)
-by me and my friends of Photoacoustic laboratory.
+by me with, my friend Mila and my other friends of Photoacoustic laboratory.
 
 If you want to use it, please remember of us.
 """
+
 ## Importing the libraries
 from time import sleep, strftime
 import matplotlib.pyplot as plt
